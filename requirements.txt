@@ -1,0 +1,2 @@
+certbot==1.18.0
+certbot-dns-google==1.18.0
