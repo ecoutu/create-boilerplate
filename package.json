@@ -125,7 +125,7 @@
     "jest-junit": "^12.0.0",
     "jest-sonar": "^0.2.12",
     "jest-watch-typeahead": "^0.6.2",
-    "json5": "^2.2.0",
+    "json5": "^2.2.2",
     "lint-staged": "^10.5.4",
     "lodash": "^4.17.21",
     "npm": "^7.8.0",
